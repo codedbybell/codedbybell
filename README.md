@@ -1,4 +1,4 @@
-<h1 align="center">🌸 Hi, I'm Bell! </h1>
+<h1 align="center">🌸 Hi, I'm Berra! </h1>
 <p align="center">
   🍵 Learning to code one line at a time, with a cup of tea and big dreams 💻✨
 </p>
