@@ -1,5 +1,24 @@
+<h1 align="center">🌸 Hi, I'm Bell! </h1>
+<p align="center">
+  🍵 Learning to code one line at a time, with a cup of tea and big dreams 💻✨
+</p>
+
 # 💫 About Me:
 👩🏼‍🎓 Studying Computer Engineering at Biruni University<br>👩🏼‍💻 Currently learning Python, and SwiftUI<br>🌱 Always curious, always creating<br>🧁 Lover of tea, soft playlists, and clean code<br>✨ Here to share my journey and learn with you
+
+
+# 💻 What I’m working on
+🧠 My machine learning projects<br>
+📱 Building modern, cross-platform mobile apps with Flutter & SwiftUI<br>
+🍎 **Kalorica**: an AI-powered nutrition & calorie tracking app (Flutter frontend, Flask backend, Firebase integration, )
+<!--
+- 🎥 Coding content for Instagram (Reels!)
+-->
+
+# 🧠 TÜBİTAK Supported Project
+🤟 A real-time two-way translation app for Turkish Sign Language and Turkish.  
+  *Officially supported by TÜBİTAK — work starting soon!*
+
 
 
 # 💻 Tech Stack:
